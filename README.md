@@ -1,6 +1,7 @@
-## 👋 Hi, I'm **Kaibo Zhang**
-
-**Data Scitentist | ML Engineer | Multi-Agent Systems Explorer**
+<div align="center">
+  <h1>👋 Hi, I'm <strong>Kaibo Zhang</strong></h1>
+  <p><strong>Data Scientist | ML Engineer | Multi-Agent Systems Explorer</strong></p>
+</div>
 
 ---
 
