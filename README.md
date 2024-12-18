@@ -6,19 +6,18 @@
 ---
 
 ### 💻 **About Me**
-- **Business Analytics & Statistics Student** at McGill University, passionate about data-driven solutions and machine learning.
-- I specialize in **Python** for data analytics, machine learning (ML), and deep learning (DL) projects.
-- Proficient in **SQL** for building relational databases and designing ETL pipelines.
-- Experienced in creating interactive dashboards and visualizations using **Power BI**, Python, and web technologies like **HTML**, **CSS**, and **JavaScript**.
-- Researched and built **multi-agent systems** with **LLMs** for AI-driven decision-making and performance optimization.
+- **Business Analytics & Statistics Student** at McGill University.
+- Expert in **Python** and **SQL** for data analytics, machine learning, and database design.
+- Experienced in **dashboards** and **web development** with **Power BI**, **HTML/CSS**, and **JavaScript**.
+- Researcher in **multi-agent systems** and **LLMs** for AI-driven solutions.
 
 ---
 
 ### 🚀 **What I Do**
-- 📊 **Data Analytics & Optimization**: Building ETL pipelines, analyzing large datasets, and uncovering actionable insights.
-- 🤖 **Machine & Deep Learning**: Developing models for tasks like emotion classification, image recognition, and prediction.
-- 🧠 **LLMs & Multi-Agent Systems**: Implementing and optimizing LLM workflows for research and development.
-- 🌐 **Database & API Design**: Crafting SQL-based relational databases and FastAPI integrations for seamless data operations.
+- **Data Analytics**: Transforming data into actionable insights.
+- **Machine Learning**: Building and optimizing predictive models.
+- **LLMs & Multi-Agent Systems**: Designing cutting-edge AI workflows.
+- **Database Design**: Creating scalable and efficient databases.
 
 ---
 
