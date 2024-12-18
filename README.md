@@ -8,7 +8,6 @@
 ### 💻 **About Me**
 - **Business Analytics & Statistics Student** at McGill University.
 - Expert in **Python** and **SQL** for data analytics, machine learning, and database design.
-- Experienced in **dashboards** and **web development** with **Power BI**, **HTML/CSS**, and **JavaScript**.
 - Researcher in **multi-agent systems** and **LLMs** for AI-driven solutions.
 
 ---
@@ -23,17 +22,9 @@
 
 ### 📈 **GitHub Stats**
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kbzh2558&show_icons=true&theme=radical" alt="GitHub Stats" width="40%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbzh2558&layout=compact&theme=radical" alt="Language Distribution" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kbzh2558&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbzh2558&layout=compact&theme=radical" alt="Language Distribution" width="38%" />
 </div>
-
----
-
-### 🛠️ **Tools & Technologies**
-- **Languages**: Python, SQL, R, JavaScript, HTML, CSS, Slurm, Git
-- **Libraries/Frameworks**: Pandas, NumPy, PyTorch, Scikit-learn, FastAPI, SQLAlchemy, etc.
-- **Visualization**: Power BI, Tableau
-- **Databases**: MySQL, SQLite, Neo4j
 
 ---
 
