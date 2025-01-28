@@ -20,11 +20,13 @@
 
 ---
 
-### 📈 **GitHub Stats**
+### 🚀 **GitHub Dashboard**
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kbzh2558&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbzh2558&layout=compact&theme=radical" alt="Language Distribution" width="38%" />
+    <img src="https://streak-stats.demolab.com?user=kbzh2558&theme=radical&hide_border=true&mode=weekly" alt="GitHub Streak" width="55%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kbzh2558&layout=compact&theme=radical" alt="Top Languages" width="38%" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kbzh2558&theme=radical" alt="Profile Summary" width="100%" />
 </div>
+
 
 ---
 
