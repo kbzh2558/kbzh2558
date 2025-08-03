@@ -6,7 +6,8 @@
 ---
 
 ### 💻 **About Me**
-- **Business Analytics & Statistics Student** at McGill University.
+- **Master of Business Analytics Student** at Massachusetts Institute of Technology.
+- **Business Analytics & Statistics** at McGill University.
 - Expert in **Python** and **SQL** for data analytics, machine learning, and database design.
 - Researcher in **multi-agent systems** and **LLMs** for AI-driven solutions.
 
